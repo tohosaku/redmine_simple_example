@@ -1,3 +1,5 @@
+require_relative 'lib/hoge'
+
 Redmine::Plugin.register :redmine_simple_example do
   name 'Redmine Simple Example plugin'
   author 'John doe'
