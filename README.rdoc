@@ -1,3 +1,0 @@
-= redmine_simple_example
-
-Description goes here
